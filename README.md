@@ -24,6 +24,6 @@ The development of Scotland Yard was methodically structured into five crucial p
 
 ## Technical Highlights
 
-- **Graph Algorithms:** At the heart of player movement and map representation, showcasing sophisticated algorithmic thinking 📊.
+- **Graph Algorithms:** At the heart of player movement and map representation, aiming to showcase a more distinct algorithmic thinking 📊.
 - **Design Patterns:** The use of Visitor and Observer patterns not only adheres to best practices but also highlights the project's design sophistication, enabling scalability and maintenance 🛠️.
-- **Advanced Java Features:** Leveraging Generics for type-safe collections and anonymous classes for succinct event handling and state updates, demonstrating a deep understanding of the language 📚.
+- **Advanced Java Features:** Leveraging Generics for type-safe collections and anonymous classes for succinct event handling and state updates, aiming to demonstrate a deeper understanding of the Java programming language 📚.

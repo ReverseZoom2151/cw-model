@@ -4,6 +4,8 @@
 
 Scotland Yard is a riveting detective board game brought to life through a sophisticated Java 17 and Maven-based implementation 🖥️. This digital rendition faithfully captures the essence of the classic game 🎲, where players navigate the streets of London 🇬🇧, either as detectives on the hunt or as the elusive Mr. X evading capture. The game leverages modern software engineering principles, including Graph Algorithms, Design Patterns like Visitor and Observer, and advanced Java features such as Generics and anonymous classes, to create a dynamic and engaging experience.
 
+![Scotland_Yard](https://github.com/user-attachments/assets/590211c7-c7bd-437d-9acf-a6c667a2e43f)
+
 ## Implementation
 
 The development of Scotland Yard was methodically structured into five crucial phases, each focusing on a core aspect of the game's functionality:
